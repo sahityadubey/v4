@@ -4395,16 +4395,16 @@
               r.createElement(
                 "p",
                 null,
-                "I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at",
+                "I’m a senior software engineer specializing in building exceptional digital mobile experiences. Currently, I’m focused on building accessible, human-centered products at",
                 " ",
                 r.createElement(
                   "a",
                   {
-                    href: "https://upstatement.com/",
+                    href: "https://www.allegion.com/corp/en/about.html",
                     target: "_blank",
                     rel: "noreferrer",
                   },
-                  "Upstatement"
+                  "Allegion"
                 ),
                 "."
               )
@@ -4413,11 +4413,11 @@
               "a",
               {
                 className: "email-link",
-                href: "https://www.newline.co/courses/build-a-spotify-connected-app",
+                href: "https://github.com/sahityadubey",
                 target: "_blank",
                 rel: "noreferrer",
               },
-              "Check out my course!"
+              "Check out my projects!"
             ),
           ];
           return r.createElement(
